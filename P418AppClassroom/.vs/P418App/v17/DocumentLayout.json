@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD28E79-CFF7-42E1-818F-CD9E034E5D61}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\api-fluentapi\\p418app\\domain\\configurations\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD28E79-CFF7-42E1-818F-CD9E034E5D61}|Domain\\Domain.csproj|solutionrelative:domain\\configurations\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F7B6-2502-42A2-B600-AD977B1C0D1F}|Service\\Service.csproj|c:\\users\\user\\desktop\\api-fluentapi\\p418app\\service\\dtos\\countries\\countryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F7B6-2502-42A2-B600-AD977B1C0D1F}|Service\\Service.csproj|solutionrelative:service\\dtos\\countries\\countryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F7B6-2502-42A2-B600-AD977B1C0D1F}|Service\\Service.csproj|c:\\users\\user\\desktop\\api-fluentapi\\p418app\\service\\dtos\\countries\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F7B6-2502-42A2-B600-AD977B1C0D1F}|Service\\Service.csproj|solutionrelative:service\\dtos\\countries\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F7B6-2502-42A2-B600-AD977B1C0D1F}|Service\\Service.csproj|c:\\users\\user\\desktop\\api-fluentapi\\p418app\\service\\dtos\\countries\\countrycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F7B6-2502-42A2-B600-AD977B1C0D1F}|Service\\Service.csproj|solutionrelative:service\\dtos\\countries\\countrycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\api-fluentapi\\p418app\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|solutionrelative:repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD28E79-CFF7-42E1-818F-CD9E034E5D61}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\api-fluentapi\\p418app\\domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD28E79-CFF7-42E1-818F-CD9E034E5D61}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD28E79-CFF7-42E1-818F-CD9E034E5D61}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\api-fluentapi\\p418app\\domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD28E79-CFF7-42E1-818F-CD9E034E5D61}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA03D33-A343-44AE-8CFF-5D0C1C699632}|P418App\\P418App.csproj|c:\\users\\user\\desktop\\api-fluentapi\\p418app\\p418app\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA03D33-A343-44AE-8CFF-5D0C1C699632}|P418App\\P418App.csproj|solutionrelative:p418app\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\api-fluentapi\\p418app\\repository\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\api-fluentapi\\p418app\\repository\\repository\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\api-fluentapi\\p418app\\repository\\repository\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\P414-Api\\Service\\Mappings\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA03D33-A343-44AE-8CFF-5D0C1C699632}|P418App\\P418App.csproj|c:\\users\\user\\desktop\\api-fluentapi\\p418app\\p418app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA03D33-A343-44AE-8CFF-5D0C1C699632}|P418App\\P418App.csproj|solutionrelative:p418app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 187,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Service\\DTOs\\Countries\\CountryEditDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Countries\\CountryEditDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Service\\DTOs\\Countries\\CountryEditDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Countries\\CountryEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:29:19.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Service\\DTOs\\Countries\\CountryDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Countries\\CountryDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Service\\DTOs\\Countries\\CountryDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Countries\\CountryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:28:54.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Service\\DTOs\\Countries\\CountryCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Countries\\CountryCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Service\\DTOs\\Countries\\CountryCreateDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Countries\\CountryCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:28:38.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Domain\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Domain\\Entities\\City.cs",
+              "RelativeToolTip": "Domain\\Entities\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:23:38.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Repository\\Repository\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Repository\\Repository\\CountryRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\CountryRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvycAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:18:26.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Repository\\Repository\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Repository\\Repository\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:17:46.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Repository\\Repository\\Interfaces\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\Interfaces\\ICountryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Repository\\Repository\\Interfaces\\ICountryRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\Interfaces\\ICountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:17:18.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Repository\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Repository\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:15:36.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\P418App\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "P418App\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\P418App\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "P418App\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:12:54.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Domain\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Domain\\Entities\\Country.cs",
+              "RelativeToolTip": "Domain\\Entities\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:11:05.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Domain\\Configurations\\CountryConfiguration.cs",
+              "RelativeDocumentMoniker": "Domain\\Configurations\\CountryConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\Domain\\Configurations\\CountryConfiguration.cs",
+              "RelativeToolTip": "Domain\\Configurations\\CountryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:10:02.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\P414-Api\\Service\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\P414-Api\\Service\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\P414-Api\\Service\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "..\\..\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\P414-Api\\Service\\Mappings\\MappingProfile.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:50:26.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\P418App\\Program.cs",
+              "RelativeDocumentMoniker": "P418App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\API-FluentApi\\P418App\\P418App\\Program.cs",
+              "RelativeToolTip": "P418App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:46:53.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

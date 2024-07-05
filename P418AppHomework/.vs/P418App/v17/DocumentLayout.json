@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\P418App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\p418app\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA03D33-A343-44AE-8CFF-5D0C1C699632}|P418App\\P418App.csproj|c:\\users\\user\\desktop\\p418app\\p418app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CA03D33-A343-44AE-8CFF-5D0C1C699632}|P418App\\P418App.csproj|solutionrelative:p418app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\p418app\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|solutionrelative:repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\p418app\\repository\\migrations\\20240705080118_updatestudentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20240705080118_updatestudentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\p418app\\repository\\migrations\\20240705075648_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B7E69-E787-4C25-A658-695723189BE5}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20240705075648_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA03D33-A343-44AE-8CFF-5D0C1C699632}|P418App\\P418App.csproj|c:\\users\\user\\desktop\\p418app\\p418app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA03D33-A343-44AE-8CFF-5D0C1C699632}|P418App\\P418App.csproj|solutionrelative:p418app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA03D33-A343-44AE-8CFF-5D0C1C699632}|P418App\\P418App.csproj|c:\\users\\user\\desktop\\p418app\\p418app\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA03D33-A343-44AE-8CFF-5D0C1C699632}|P418App\\P418App.csproj|solutionrelative:p418app\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD28E79-CFF7-42E1-818F-CD9E034E5D61}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\p418app\\domain\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD28E79-CFF7-42E1-818F-CD9E034E5D61}|Domain\\Domain.csproj|solutionrelative:domain\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F7B6-2502-42A2-B600-AD977B1C0D1F}|Service\\Service.csproj|c:\\users\\user\\desktop\\p418app\\service\\dtos\\groups\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F7B6-2502-42A2-B600-AD977B1C0D1F}|Service\\Service.csproj|solutionrelative:service\\dtos\\groups\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F7B6-2502-42A2-B600-AD977B1C0D1F}|Service\\Service.csproj|c:\\users\\user\\desktop\\p418app\\service\\dtos\\students\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F7B6-2502-42A2-B600-AD977B1C0D1F}|Service\\Service.csproj|solutionrelative:service\\dtos\\students\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD28E79-CFF7-42E1-818F-CD9E034E5D61}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\p418app\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD28E79-CFF7-42E1-818F-CD9E034E5D61}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA03D33-A343-44AE-8CFF-5D0C1C699632}|P418App\\P418App.csproj|c:\\users\\user\\desktop\\p418app\\p418app\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA03D33-A343-44AE-8CFF-5D0C1C699632}|P418App\\P418App.csproj|solutionrelative:p418app\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD28E79-CFF7-42E1-818F-CD9E034E5D61}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\p418app\\domain\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD28E79-CFF7-42E1-818F-CD9E034E5D61}|Domain\\Domain.csproj|solutionrelative:domain\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F7B6-2502-42A2-B600-AD977B1C0D1F}|Service\\Service.csproj|c:\\users\\user\\desktop\\p418app\\service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F7B6-2502-42A2-B600-AD977B1C0D1F}|Service\\Service.csproj|solutionrelative:service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 187,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T11:38:40.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\P418App\\appsettings.json",
+              "RelativeDocumentMoniker": "P418App\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\P418App\\appsettings.json",
+              "RelativeToolTip": "P418App\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T11:29:40.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\Domain\\Configurations\\GroupConfiguration.cs",
+              "RelativeDocumentMoniker": "Domain\\Configurations\\GroupConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\Domain\\Configurations\\GroupConfiguration.cs",
+              "RelativeToolTip": "Domain\\Configurations\\GroupConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:16:23.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\Service\\DTOs\\Groups\\GroupDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Groups\\GroupDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\Service\\DTOs\\Groups\\GroupDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Groups\\GroupDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:11:02.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\P418App\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "P418App\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\P418App\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "P418App\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:06:10.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\Service\\DTOs\\Students\\StudentDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Students\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\Service\\DTOs\\Students\\StudentDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Students\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:04:47.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240705080118_UpdateStudentConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\Repository\\Migrations\\20240705080118_UpdateStudentConfig.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20240705080118_UpdateStudentConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\Repository\\Migrations\\20240705080118_UpdateStudentConfig.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20240705080118_UpdateStudentConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:01:18.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\Service\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\Service\\Services\\StudentService.cs",
+              "RelativeToolTip": "Service\\Services\\StudentService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:00:23.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\Domain\\Configurations\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "Domain\\Configurations\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\Domain\\Configurations\\StudentConfiguration.cs",
+              "RelativeToolTip": "Domain\\Configurations\\StudentConfiguration.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:59:48.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "Domain\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:59:26.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240705075648_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\Repository\\Migrations\\20240705075648_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20240705075648_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\Repository\\Migrations\\20240705075648_InitialCreate.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20240705075648_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:56:48.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\P418App\\Program.cs",
+              "RelativeDocumentMoniker": "P418App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\P418App\\Program.cs",
+              "RelativeToolTip": "P418App\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwC4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:54:48.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\Repository\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\Repository\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:48:47.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\P418App\\P418App\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "P418App\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\P418App\\P418App\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "P418App\\Controllers\\GroupController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:44:23.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
